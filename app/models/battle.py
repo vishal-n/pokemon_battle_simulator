@@ -1,3 +1,5 @@
+### Battle entity
+
 from typing import List, Optional
 import pandas as pd
 from uuid import uuid4

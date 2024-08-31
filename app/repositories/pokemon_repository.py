@@ -1,4 +1,5 @@
 import pandas as pd
+
 from app.models.pokemon import Pokemon
 from app.factories.pokemon_factory import PokemonFactory
 

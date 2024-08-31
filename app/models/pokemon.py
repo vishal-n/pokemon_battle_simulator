@@ -1,4 +1,4 @@
-
+### Pokemon entity
 
 class Pokemon:
     def __init__(self, name: str, type1: str, type2: str, attack: int, against_types: dict):

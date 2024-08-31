@@ -1,5 +1,5 @@
-from app.models.pokemon import Pokemon
 import pandas as pd
+from app.models.pokemon import Pokemon
 
 
 class PokemonFactory:

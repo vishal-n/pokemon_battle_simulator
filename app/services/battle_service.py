@@ -1,8 +1,12 @@
+### Services for a given battle
+
 from uuid import uuid4
 from threading import Thread
+
 from app.models.pokemon import Pokemon
 from app.models.battle import Battle
 from app.repositories.pokemon_repository import PokemonRepository
+
 
 class BattleService:
     def __init__(self, repository: PokemonRepository):
