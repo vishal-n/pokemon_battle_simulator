@@ -1,4 +1,4 @@
-### Services for a given battle
+### Services for a given battle (Battle management serives)
 
 from uuid import uuid4
 from threading import Thread

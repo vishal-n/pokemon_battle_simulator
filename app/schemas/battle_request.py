@@ -1,3 +1,5 @@
+### Pydantic model for request / response validation
+
 from pydantic import BaseModel
 
 
